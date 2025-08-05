@@ -1,0 +1,6 @@
+Can you generate a dataset with 10000 points of an individual living in Weston, FL, who works in Fort Lauderdale, goes to the gym in Davie, works 5 days a week. The dataset:
+Please add a few anomalies (e.g., sudden detours, unexpected late-night trips) to make it more suitable for anomaly detection practice?
+
+-timestamp
+-latitude
+-longtiude
