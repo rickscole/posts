@@ -1,0 +1,441 @@
+id,holiday,date,observed_date
+1,New Year's Day,2010-01-01,2010-01-01
+2,Martin Luther King Jr. Day,2010-01-18,2010-01-18
+3,Washington's Birthday,2010-02-15,2010-02-15
+4,Memorial Day,2010-05-31,2010-05-31
+5,Independence Day,2010-07-04,2010-07-05
+6,Labor Day,2010-09-06,2010-09-06
+7,Columbus Day,2010-10-11,2010-10-11
+8,Veterans Day,2010-11-11,2010-11-11
+9,Thanksgiving Day,2010-11-25,2010-11-25
+10,Christmas Day,2010-12-25,2010-12-24
+11,New Year's Day,2011-01-01,2010-12-31
+12,Martin Luther King Jr. Day,2011-01-17,2011-01-17
+13,Washington's Birthday,2011-02-21,2011-02-21
+14,Memorial Day,2011-05-30,2011-05-30
+15,Independence Day,2011-07-04,2011-07-04
+16,Labor Day,2011-09-05,2011-09-05
+17,Columbus Day,2011-10-10,2011-10-10
+18,Veterans Day,2011-11-11,2011-11-11
+19,Thanksgiving Day,2011-11-24,2011-11-24
+20,Christmas Day,2011-12-25,2011-12-26
+21,New Year's Day,2012-01-01,2012-01-02
+22,Martin Luther King Jr. Day,2012-01-16,2012-01-16
+23,Washington's Birthday,2012-02-20,2012-02-20
+24,Memorial Day,2012-05-28,2012-05-28
+25,Independence Day,2012-07-04,2012-07-04
+26,Labor Day,2012-09-03,2012-09-03
+27,Columbus Day,2012-10-08,2012-10-08
+28,Veterans Day,2012-11-11,2012-11-12
+29,Thanksgiving Day,2012-11-22,2012-11-22
+30,Christmas Day,2012-12-25,2012-12-25
+31,New Year's Day,2013-01-01,2013-01-01
+32,Martin Luther King Jr. Day,2013-01-21,2013-01-21
+33,Washington's Birthday,2013-02-18,2013-02-18
+34,Memorial Day,2013-05-27,2013-05-27
+35,Independence Day,2013-07-04,2013-07-04
+36,Labor Day,2013-09-02,2013-09-02
+37,Columbus Day,2013-10-14,2013-10-14
+38,Veterans Day,2013-11-11,2013-11-11
+39,Thanksgiving Day,2013-11-28,2013-11-28
+40,Christmas Day,2013-12-25,2013-12-25
+41,New Year's Day,2014-01-01,2014-01-01
+42,Martin Luther King Jr. Day,2014-01-20,2014-01-20
+43,Washington's Birthday,2014-02-17,2014-02-17
+44,Memorial Day,2014-05-26,2014-05-26
+45,Independence Day,2014-07-04,2014-07-04
+46,Labor Day,2014-09-01,2014-09-01
+47,Columbus Day,2014-10-13,2014-10-13
+48,Veterans Day,2014-11-11,2014-11-11
+49,Thanksgiving Day,2014-11-27,2014-11-27
+50,Christmas Day,2014-12-25,2014-12-25
+51,New Year's Day,2015-01-01,2015-01-01
+52,Martin Luther King Jr. Day,2015-01-19,2015-01-19
+53,Washington's Birthday,2015-02-16,2015-02-16
+54,Memorial Day,2015-05-25,2015-05-25
+55,Independence Day,2015-07-04,2015-07-03
+56,Labor Day,2015-09-07,2015-09-07
+57,Columbus Day,2015-10-12,2015-10-12
+58,Veterans Day,2015-11-11,2015-11-11
+59,Thanksgiving Day,2015-11-26,2015-11-26
+60,Christmas Day,2015-12-25,2015-12-25
+61,New Year's Day,2016-01-01,2016-01-01
+62,Martin Luther King Jr. Day,2016-01-18,2016-01-18
+63,Washington's Birthday,2016-02-15,2016-02-15
+64,Memorial Day,2016-05-30,2016-05-30
+65,Independence Day,2016-07-04,2016-07-04
+66,Labor Day,2016-09-05,2016-09-05
+67,Columbus Day,2016-10-10,2016-10-10
+68,Veterans Day,2016-11-11,2016-11-11
+69,Thanksgiving Day,2016-11-24,2016-11-24
+70,Christmas Day,2016-12-25,2016-12-26
+71,New Year's Day,2017-01-01,2017-01-02
+72,Martin Luther King Jr. Day,2017-01-16,2017-01-16
+73,Washington's Birthday,2017-02-20,2017-02-20
+74,Memorial Day,2017-05-29,2017-05-29
+75,Independence Day,2017-07-04,2017-07-04
+76,Labor Day,2017-09-04,2017-09-04
+77,Columbus Day,2017-10-09,2017-10-09
+78,Veterans Day,2017-11-11,2017-11-10
+79,Thanksgiving Day,2017-11-23,2017-11-23
+80,Christmas Day,2017-12-25,2017-12-25
+81,New Year's Day,2018-01-01,2018-01-01
+82,Martin Luther King Jr. Day,2018-01-15,2018-01-15
+83,Washington's Birthday,2018-02-19,2018-02-19
+84,Memorial Day,2018-05-28,2018-05-28
+85,Independence Day,2018-07-04,2018-07-04
+86,Labor Day,2018-09-03,2018-09-03
+87,Columbus Day,2018-10-08,2018-10-08
+88,Veterans Day,2018-11-11,2018-11-12
+89,Thanksgiving Day,2018-11-22,2018-11-22
+90,Christmas Day,2018-12-25,2018-12-25
+91,New Year's Day,2019-01-01,2019-01-01
+92,Martin Luther King Jr. Day,2019-01-21,2019-01-21
+93,Washington's Birthday,2019-02-18,2019-02-18
+94,Memorial Day,2019-05-27,2019-05-27
+95,Independence Day,2019-07-04,2019-07-04
+96,Labor Day,2019-09-02,2019-09-02
+97,Columbus Day,2019-10-14,2019-10-14
+98,Veterans Day,2019-11-11,2019-11-11
+99,Thanksgiving Day,2019-11-28,2019-11-28
+100,Christmas Day,2019-12-25,2019-12-25
+101,New Year's Day,2020-01-01,2020-01-01
+102,Martin Luther King Jr. Day,2020-01-20,2020-01-20
+103,Washington's Birthday,2020-02-17,2020-02-17
+104,Memorial Day,2020-05-25,2020-05-25
+105,Independence Day,2020-07-04,2020-07-03
+106,Labor Day,2020-09-07,2020-09-07
+107,Columbus Day,2020-10-12,2020-10-12
+108,Veterans Day,2020-11-11,2020-11-11
+109,Thanksgiving Day,2020-11-26,2020-11-26
+110,Christmas Day,2020-12-25,2020-12-25
+111,New Year's Day,2021-01-01,2021-01-01
+112,Martin Luther King Jr. Day,2021-01-18,2021-01-18
+113,Washington's Birthday,2021-02-15,2021-02-15
+114,Memorial Day,2021-05-31,2021-05-31
+115,Juneteenth National Independence Day,2021-06-19,2021-06-18
+116,Independence Day,2021-07-04,2021-07-05
+117,Labor Day,2021-09-06,2021-09-06
+118,Columbus Day,2021-10-11,2021-10-11
+119,Veterans Day,2021-11-11,2021-11-11
+120,Thanksgiving Day,2021-11-25,2021-11-25
+121,Christmas Day,2021-12-25,2021-12-24
+122,New Year's Day,2022-01-01,2021-12-31
+123,Martin Luther King Jr. Day,2022-01-17,2022-01-17
+124,Washington's Birthday,2022-02-21,2022-02-21
+125,Memorial Day,2022-05-30,2022-05-30
+126,Juneteenth National Independence Day,2022-06-19,2022-06-20
+127,Independence Day,2022-07-04,2022-07-04
+128,Labor Day,2022-09-05,2022-09-05
+129,Columbus Day,2022-10-10,2022-10-10
+130,Veterans Day,2022-11-11,2022-11-11
+131,Thanksgiving Day,2022-11-24,2022-11-24
+132,Christmas Day,2022-12-25,2022-12-26
+133,New Year's Day,2023-01-01,2023-01-02
+134,Martin Luther King Jr. Day,2023-01-16,2023-01-16
+135,Washington's Birthday,2023-02-20,2023-02-20
+136,Memorial Day,2023-05-29,2023-05-29
+137,Juneteenth National Independence Day,2023-06-19,2023-06-19
+138,Independence Day,2023-07-04,2023-07-04
+139,Labor Day,2023-09-04,2023-09-04
+140,Columbus Day,2023-10-09,2023-10-09
+141,Veterans Day,2023-11-11,2023-11-10
+142,Thanksgiving Day,2023-11-23,2023-11-23
+143,Christmas Day,2023-12-25,2023-12-25
+144,New Year's Day,2024-01-01,2024-01-01
+145,Martin Luther King Jr. Day,2024-01-15,2024-01-15
+146,Washington's Birthday,2024-02-19,2024-02-19
+147,Memorial Day,2024-05-27,2024-05-27
+148,Juneteenth National Independence Day,2024-06-19,2024-06-19
+149,Independence Day,2024-07-04,2024-07-04
+150,Labor Day,2024-09-02,2024-09-02
+151,Columbus Day,2024-10-14,2024-10-14
+152,Veterans Day,2024-11-11,2024-11-11
+153,Thanksgiving Day,2024-11-28,2024-11-28
+154,Christmas Day,2024-12-25,2024-12-25
+155,New Year's Day,2025-01-01,2025-01-01
+156,Martin Luther King Jr. Day,2025-01-20,2025-01-20
+157,Washington's Birthday,2025-02-17,2025-02-17
+158,Memorial Day,2025-05-26,2025-05-26
+159,Juneteenth National Independence Day,2025-06-19,2025-06-19
+160,Independence Day,2025-07-04,2025-07-04
+161,Labor Day,2025-09-01,2025-09-01
+162,Columbus Day,2025-10-13,2025-10-13
+163,Veterans Day,2025-11-11,2025-11-11
+164,Thanksgiving Day,2025-11-27,2025-11-27
+165,Christmas Day,2025-12-25,2025-12-25
+166,New Year's Day,2026-01-01,2026-01-01
+167,Martin Luther King Jr. Day,2026-01-19,2026-01-19
+168,Washington's Birthday,2026-02-16,2026-02-16
+169,Memorial Day,2026-05-25,2026-05-25
+170,Juneteenth National Independence Day,2026-06-19,2026-06-19
+171,Independence Day,2026-07-04,2026-07-03
+172,Labor Day,2026-09-07,2026-09-07
+173,Columbus Day,2026-10-12,2026-10-12
+174,Veterans Day,2026-11-11,2026-11-11
+175,Thanksgiving Day,2026-11-26,2026-11-26
+176,Christmas Day,2026-12-25,2026-12-25
+177,New Year's Day,2027-01-01,2027-01-01
+178,Martin Luther King Jr. Day,2027-01-18,2027-01-18
+179,Washington's Birthday,2027-02-15,2027-02-15
+180,Memorial Day,2027-05-31,2027-05-31
+181,Juneteenth National Independence Day,2027-06-19,2027-06-18
+182,Independence Day,2027-07-04,2027-07-05
+183,Labor Day,2027-09-06,2027-09-06
+184,Columbus Day,2027-10-11,2027-10-11
+185,Veterans Day,2027-11-11,2027-11-11
+186,Thanksgiving Day,2027-11-25,2027-11-25
+187,Christmas Day,2027-12-25,2027-12-24
+188,New Year's Day,2028-01-01,2027-12-31
+189,Martin Luther King Jr. Day,2028-01-17,2028-01-17
+190,Washington's Birthday,2028-02-21,2028-02-21
+191,Memorial Day,2028-05-29,2028-05-29
+192,Juneteenth National Independence Day,2028-06-19,2028-06-19
+193,Independence Day,2028-07-04,2028-07-04
+194,Labor Day,2028-09-04,2028-09-04
+195,Columbus Day,2028-10-09,2028-10-09
+196,Veterans Day,2028-11-11,2028-11-10
+197,Thanksgiving Day,2028-11-23,2028-11-23
+198,Christmas Day,2028-12-25,2028-12-25
+199,New Year's Day,2029-01-01,2029-01-01
+200,Martin Luther King Jr. Day,2029-01-15,2029-01-15
+201,Washington's Birthday,2029-02-19,2029-02-19
+202,Memorial Day,2029-05-28,2029-05-28
+203,Juneteenth National Independence Day,2029-06-19,2029-06-19
+204,Independence Day,2029-07-04,2029-07-04
+205,Labor Day,2029-09-03,2029-09-03
+206,Columbus Day,2029-10-08,2029-10-08
+207,Veterans Day,2029-11-11,2029-11-12
+208,Thanksgiving Day,2029-11-22,2029-11-22
+209,Christmas Day,2029-12-25,2029-12-25
+210,New Year's Day,2030-01-01,2030-01-01
+211,Martin Luther King Jr. Day,2030-01-21,2030-01-21
+212,Washington's Birthday,2030-02-18,2030-02-18
+213,Memorial Day,2030-05-27,2030-05-27
+214,Juneteenth National Independence Day,2030-06-19,2030-06-19
+215,Independence Day,2030-07-04,2030-07-04
+216,Labor Day,2030-09-02,2030-09-02
+217,Columbus Day,2030-10-14,2030-10-14
+218,Veterans Day,2030-11-11,2030-11-11
+219,Thanksgiving Day,2030-11-28,2030-11-28
+220,Christmas Day,2030-12-25,2030-12-25
+221,New Year's Day,2031-01-01,2031-01-01
+222,Martin Luther King Jr. Day,2031-01-20,2031-01-20
+223,Washington's Birthday,2031-02-17,2031-02-17
+224,Memorial Day,2031-05-26,2031-05-26
+225,Juneteenth National Independence Day,2031-06-19,2031-06-19
+226,Independence Day,2031-07-04,2031-07-04
+227,Labor Day,2031-09-01,2031-09-01
+228,Columbus Day,2031-10-13,2031-10-13
+229,Veterans Day,2031-11-11,2031-11-11
+230,Thanksgiving Day,2031-11-27,2031-11-27
+231,Christmas Day,2031-12-25,2031-12-25
+232,New Year's Day,2032-01-01,2032-01-01
+233,Martin Luther King Jr. Day,2032-01-19,2032-01-19
+234,Washington's Birthday,2032-02-16,2032-02-16
+235,Memorial Day,2032-05-31,2032-05-31
+236,Juneteenth National Independence Day,2032-06-19,2032-06-18
+237,Independence Day,2032-07-04,2032-07-05
+238,Labor Day,2032-09-06,2032-09-06
+239,Columbus Day,2032-10-11,2032-10-11
+240,Veterans Day,2032-11-11,2032-11-11
+241,Thanksgiving Day,2032-11-25,2032-11-25
+242,Christmas Day,2032-12-25,2032-12-24
+243,New Year's Day,2033-01-01,2032-12-31
+244,Martin Luther King Jr. Day,2033-01-17,2033-01-17
+245,Washington's Birthday,2033-02-21,2033-02-21
+246,Memorial Day,2033-05-30,2033-05-30
+247,Juneteenth National Independence Day,2033-06-19,2033-06-20
+248,Independence Day,2033-07-04,2033-07-04
+249,Labor Day,2033-09-05,2033-09-05
+250,Columbus Day,2033-10-10,2033-10-10
+251,Veterans Day,2033-11-11,2033-11-11
+252,Thanksgiving Day,2033-11-24,2033-11-24
+253,Christmas Day,2033-12-25,2033-12-26
+254,New Year's Day,2034-01-01,2034-01-02
+255,Martin Luther King Jr. Day,2034-01-16,2034-01-16
+256,Washington's Birthday,2034-02-20,2034-02-20
+257,Memorial Day,2034-05-29,2034-05-29
+258,Juneteenth National Independence Day,2034-06-19,2034-06-19
+259,Independence Day,2034-07-04,2034-07-04
+260,Labor Day,2034-09-04,2034-09-04
+261,Columbus Day,2034-10-09,2034-10-09
+262,Veterans Day,2034-11-11,2034-11-10
+263,Thanksgiving Day,2034-11-23,2034-11-23
+264,Christmas Day,2034-12-25,2034-12-25
+265,New Year's Day,2035-01-01,2035-01-01
+266,Martin Luther King Jr. Day,2035-01-15,2035-01-15
+267,Washington's Birthday,2035-02-19,2035-02-19
+268,Memorial Day,2035-05-28,2035-05-28
+269,Juneteenth National Independence Day,2035-06-19,2035-06-19
+270,Independence Day,2035-07-04,2035-07-04
+271,Labor Day,2035-09-03,2035-09-03
+272,Columbus Day,2035-10-08,2035-10-08
+273,Veterans Day,2035-11-11,2035-11-12
+274,Thanksgiving Day,2035-11-22,2035-11-22
+275,Christmas Day,2035-12-25,2035-12-25
+276,New Year's Day,2036-01-01,2036-01-01
+277,Martin Luther King Jr. Day,2036-01-21,2036-01-21
+278,Washington's Birthday,2036-02-18,2036-02-18
+279,Memorial Day,2036-05-26,2036-05-26
+280,Juneteenth National Independence Day,2036-06-19,2036-06-19
+281,Independence Day,2036-07-04,2036-07-04
+282,Labor Day,2036-09-01,2036-09-01
+283,Columbus Day,2036-10-13,2036-10-13
+284,Veterans Day,2036-11-11,2036-11-11
+285,Thanksgiving Day,2036-11-27,2036-11-27
+286,Christmas Day,2036-12-25,2036-12-25
+287,New Year's Day,2037-01-01,2037-01-01
+288,Martin Luther King Jr. Day,2037-01-19,2037-01-19
+289,Washington's Birthday,2037-02-16,2037-02-16
+290,Memorial Day,2037-05-25,2037-05-25
+291,Juneteenth National Independence Day,2037-06-19,2037-06-19
+292,Independence Day,2037-07-04,2037-07-03
+293,Labor Day,2037-09-07,2037-09-07
+294,Columbus Day,2037-10-12,2037-10-12
+295,Veterans Day,2037-11-11,2037-11-11
+296,Thanksgiving Day,2037-11-26,2037-11-26
+297,Christmas Day,2037-12-25,2037-12-25
+298,New Year's Day,2038-01-01,2038-01-01
+299,Martin Luther King Jr. Day,2038-01-18,2038-01-18
+300,Washington's Birthday,2038-02-15,2038-02-15
+301,Memorial Day,2038-05-31,2038-05-31
+302,Juneteenth National Independence Day,2038-06-19,2038-06-18
+303,Independence Day,2038-07-04,2038-07-05
+304,Labor Day,2038-09-06,2038-09-06
+305,Columbus Day,2038-10-11,2038-10-11
+306,Veterans Day,2038-11-11,2038-11-11
+307,Thanksgiving Day,2038-11-25,2038-11-25
+308,Christmas Day,2038-12-25,2038-12-24
+309,New Year's Day,2039-01-01,2038-12-31
+310,Martin Luther King Jr. Day,2039-01-17,2039-01-17
+311,Washington's Birthday,2039-02-21,2039-02-21
+312,Memorial Day,2039-05-30,2039-05-30
+313,Juneteenth National Independence Day,2039-06-19,2039-06-20
+314,Independence Day,2039-07-04,2039-07-04
+315,Labor Day,2039-09-05,2039-09-05
+316,Columbus Day,2039-10-10,2039-10-10
+317,Veterans Day,2039-11-11,2039-11-11
+318,Thanksgiving Day,2039-11-24,2039-11-24
+319,Christmas Day,2039-12-25,2039-12-26
+320,New Year's Day,2040-01-01,2040-01-02
+321,Martin Luther King Jr. Day,2040-01-16,2040-01-16
+322,Washington's Birthday,2040-02-20,2040-02-20
+323,Memorial Day,2040-05-28,2040-05-28
+324,Juneteenth National Independence Day,2040-06-19,2040-06-19
+325,Independence Day,2040-07-04,2040-07-04
+326,Labor Day,2040-09-03,2040-09-03
+327,Columbus Day,2040-10-08,2040-10-08
+328,Veterans Day,2040-11-11,2040-11-12
+329,Thanksgiving Day,2040-11-22,2040-11-22
+330,Christmas Day,2040-12-25,2040-12-25
+331,New Year's Day,2041-01-01,2041-01-01
+332,Martin Luther King Jr. Day,2041-01-21,2041-01-21
+333,Washington's Birthday,2041-02-18,2041-02-18
+334,Memorial Day,2041-05-27,2041-05-27
+335,Juneteenth National Independence Day,2041-06-19,2041-06-19
+336,Independence Day,2041-07-04,2041-07-04
+337,Labor Day,2041-09-02,2041-09-02
+338,Columbus Day,2041-10-14,2041-10-14
+339,Veterans Day,2041-11-11,2041-11-11
+340,Thanksgiving Day,2041-11-28,2041-11-28
+341,Christmas Day,2041-12-25,2041-12-25
+342,New Year's Day,2042-01-01,2042-01-01
+343,Martin Luther King Jr. Day,2042-01-20,2042-01-20
+344,Washington's Birthday,2042-02-17,2042-02-17
+345,Memorial Day,2042-05-26,2042-05-26
+346,Juneteenth National Independence Day,2042-06-19,2042-06-19
+347,Independence Day,2042-07-04,2042-07-04
+348,Labor Day,2042-09-01,2042-09-01
+349,Columbus Day,2042-10-13,2042-10-13
+350,Veterans Day,2042-11-11,2042-11-11
+351,Thanksgiving Day,2042-11-27,2042-11-27
+352,Christmas Day,2042-12-25,2042-12-25
+353,New Year's Day,2043-01-01,2043-01-01
+354,Martin Luther King Jr. Day,2043-01-19,2043-01-19
+355,Washington's Birthday,2043-02-16,2043-02-16
+356,Memorial Day,2043-05-25,2043-05-25
+357,Juneteenth National Independence Day,2043-06-19,2043-06-19
+358,Independence Day,2043-07-04,2043-07-03
+359,Labor Day,2043-09-07,2043-09-07
+360,Columbus Day,2043-10-12,2043-10-12
+361,Veterans Day,2043-11-11,2043-11-11
+362,Thanksgiving Day,2043-11-26,2043-11-26
+363,Christmas Day,2043-12-25,2043-12-25
+364,New Year's Day,2044-01-01,2044-01-01
+365,Martin Luther King Jr. Day,2044-01-18,2044-01-18
+366,Washington's Birthday,2044-02-15,2044-02-15
+367,Memorial Day,2044-05-30,2044-05-30
+368,Juneteenth National Independence Day,2044-06-19,2044-06-20
+369,Independence Day,2044-07-04,2044-07-04
+370,Labor Day,2044-09-05,2044-09-05
+371,Columbus Day,2044-10-10,2044-10-10
+372,Veterans Day,2044-11-11,2044-11-11
+373,Thanksgiving Day,2044-11-24,2044-11-24
+374,Christmas Day,2044-12-25,2044-12-26
+375,New Year's Day,2045-01-01,2045-01-02
+376,Martin Luther King Jr. Day,2045-01-16,2045-01-16
+377,Washington's Birthday,2045-02-20,2045-02-20
+378,Memorial Day,2045-05-29,2045-05-29
+379,Juneteenth National Independence Day,2045-06-19,2045-06-19
+380,Independence Day,2045-07-04,2045-07-04
+381,Labor Day,2045-09-04,2045-09-04
+382,Columbus Day,2045-10-09,2045-10-09
+383,Veterans Day,2045-11-11,2045-11-10
+384,Thanksgiving Day,2045-11-23,2045-11-23
+385,Christmas Day,2045-12-25,2045-12-25
+386,New Year's Day,2046-01-01,2046-01-01
+387,Martin Luther King Jr. Day,2046-01-15,2046-01-15
+388,Washington's Birthday,2046-02-19,2046-02-19
+389,Memorial Day,2046-05-28,2046-05-28
+390,Juneteenth National Independence Day,2046-06-19,2046-06-19
+391,Independence Day,2046-07-04,2046-07-04
+392,Labor Day,2046-09-03,2046-09-03
+393,Columbus Day,2046-10-08,2046-10-08
+394,Veterans Day,2046-11-11,2046-11-12
+395,Thanksgiving Day,2046-11-22,2046-11-22
+396,Christmas Day,2046-12-25,2046-12-25
+397,New Year's Day,2047-01-01,2047-01-01
+398,Martin Luther King Jr. Day,2047-01-21,2047-01-21
+399,Washington's Birthday,2047-02-18,2047-02-18
+400,Memorial Day,2047-05-27,2047-05-27
+401,Juneteenth National Independence Day,2047-06-19,2047-06-19
+402,Independence Day,2047-07-04,2047-07-04
+403,Labor Day,2047-09-02,2047-09-02
+404,Columbus Day,2047-10-14,2047-10-14
+405,Veterans Day,2047-11-11,2047-11-11
+406,Thanksgiving Day,2047-11-28,2047-11-28
+407,Christmas Day,2047-12-25,2047-12-25
+408,New Year's Day,2048-01-01,2048-01-01
+409,Martin Luther King Jr. Day,2048-01-20,2048-01-20
+410,Washington's Birthday,2048-02-17,2048-02-17
+411,Memorial Day,2048-05-25,2048-05-25
+412,Juneteenth National Independence Day,2048-06-19,2048-06-19
+413,Independence Day,2048-07-04,2048-07-03
+414,Labor Day,2048-09-07,2048-09-07
+415,Columbus Day,2048-10-12,2048-10-12
+416,Veterans Day,2048-11-11,2048-11-11
+417,Thanksgiving Day,2048-11-26,2048-11-26
+418,Christmas Day,2048-12-25,2048-12-25
+419,New Year's Day,2049-01-01,2049-01-01
+420,Martin Luther King Jr. Day,2049-01-18,2049-01-18
+421,Washington's Birthday,2049-02-15,2049-02-15
+422,Memorial Day,2049-05-31,2049-05-31
+423,Juneteenth National Independence Day,2049-06-19,2049-06-18
+424,Independence Day,2049-07-04,2049-07-05
+425,Labor Day,2049-09-06,2049-09-06
+426,Columbus Day,2049-10-11,2049-10-11
+427,Veterans Day,2049-11-11,2049-11-11
+428,Thanksgiving Day,2049-11-25,2049-11-25
+429,Christmas Day,2049-12-25,2049-12-24
+430,New Year's Day,2050-01-01,2049-12-31
+431,Martin Luther King Jr. Day,2050-01-17,2050-01-17
+432,Washington's Birthday,2050-02-21,2050-02-21
+433,Memorial Day,2050-05-30,2050-05-30
+434,Juneteenth National Independence Day,2050-06-19,2050-06-20
+435,Independence Day,2050-07-04,2050-07-04
+436,Labor Day,2050-09-05,2050-09-05
+437,Columbus Day,2050-10-10,2050-10-10
+438,Veterans Day,2050-11-11,2050-11-11
+439,Thanksgiving Day,2050-11-24,2050-11-24
+440,Christmas Day,2050-12-25,2050-12-26
